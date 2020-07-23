@@ -1,0 +1,499 @@
+FATAL   2020-06-18 10:52:19,938 [http-nio-8084-exec-20] dreamTravel.filters.DispatcherFilter  - Asyifvhb k
+FATAL   2020-06-19 16:23:40,834 [http-nio-8084-exec-90] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:23:40,866 [http-nio-8084-exec-84] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:23:50,720 [http-nio-8084-exec-81] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:24:42,796 [http-nio-8084-exec-90] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:24:42,796 [http-nio-8084-exec-95] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:25:00,002 [http-nio-8084-exec-88] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:29:16,261 [http-nio-8084-exec-96] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:29:16,296 [http-nio-8084-exec-91] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:29:30,984 [http-nio-8084-exec-102] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:32:25,209 [http-nio-8084-exec-107] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:32:25,242 [http-nio-8084-exec-102] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:33:15,047 [http-nio-8084-exec-107] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:34:28,719 [http-nio-8084-exec-107] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:34:28,752 [http-nio-8084-exec-104] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:35:36,638 [http-nio-8084-exec-111] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:35:36,677 [http-nio-8084-exec-114] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:35:36,790 [http-nio-8084-exec-115] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:36:10,044 [http-nio-8084-exec-115] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:36:25,679 [http-nio-8084-exec-112] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:36:26,497 [http-nio-8084-exec-115] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:51:40,030 [http-nio-8084-exec-115] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-19 16:51:48,733 [http-nio-8084-exec-111] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 10:01:52,907 [http-nio-8084-exec-1] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 10:02:26,593 [http-nio-8084-exec-9] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 10:21:20,039 [http-nio-8084-exec-35] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:21:23,169 [http-nio-8084-exec-27] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:21:27,414 [http-nio-8084-exec-34] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:21:30,138 [http-nio-8084-exec-29] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:17,350 [http-nio-8084-exec-41] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:19,708 [http-nio-8084-exec-12] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:21,681 [http-nio-8084-exec-36] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:28,919 [http-nio-8084-exec-38] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:39,325 [http-nio-8084-exec-39] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:39,743 [http-nio-8084-exec-42] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:40,046 [http-nio-8084-exec-40] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:40,260 [http-nio-8084-exec-41] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:40,577 [http-nio-8084-exec-43] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:40,778 [http-nio-8084-exec-36] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:40,972 [http-nio-8084-exec-44] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:41,186 [http-nio-8084-exec-37] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:22:45,264 [http-nio-8084-exec-43] dreamTravel.controllers.SearchTouServlet  - Unparseable date: ""
+FATAL   2020-06-20 10:22:47,891 [http-nio-8084-exec-36] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 10:36:21,912 [http-nio-8084-exec-39] dreamTravel.controllers.SearchTouServlet  - java.util.Date cannot be cast to java.sql.Date
+FATAL   2020-06-20 11:09:24,540 [http-nio-8084-exec-141] dreamTravel.controllers.SearchTouServlet  - For input string: "a"
+FATAL   2020-06-20 11:37:07,148 [http-nio-8084-exec-145] dreamTravel.controllers.SearchTouServlet  - Name [SE1404] is not bound in this Context. Unable to find [SE1404].
+FATAL   2020-06-20 11:37:40,583 [http-nio-8084-exec-142] dreamTravel.controllers.SearchTouServlet  - Name [SE1404] is not bound in this Context. Unable to find [SE1404].
+FATAL   2020-06-20 11:38:52,147 [http-nio-8084-exec-164] dreamTravel.controllers.SearchTouServlet  - Invalid column name 'SubjectId'.
+FATAL   2020-06-20 11:38:55,960 [http-nio-8084-exec-165] dreamTravel.controllers.SearchTouServlet  - Invalid column name 'SubjectId'.
+FATAL   2020-06-20 11:41:45,185 [http-nio-8084-exec-183] dreamTravel.controllers.SearchTouServlet  - For input string: "aa"
+FATAL   2020-06-20 11:41:53,511 [http-nio-8084-exec-181] dreamTravel.controllers.SearchTouServlet  - The value is not set for the parameter number 4.
+FATAL   2020-06-20 11:52:18,763 [http-nio-8084-exec-194] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 11:52:18,848 [http-nio-8084-exec-195] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 11:52:20,621 [http-nio-8084-exec-196] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:00:22,082 [http-nio-8084-exec-202] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:00:22,156 [http-nio-8084-exec-196] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:00:34,490 [http-nio-8084-exec-199] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:02:23,561 [http-nio-8084-exec-200] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:02:25,986 [http-nio-8084-exec-196] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:02:26,642 [http-nio-8084-exec-201] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:02:29,862 [http-nio-8084-exec-203] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:02:47,370 [http-nio-8084-exec-209] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:02:47,474 [http-nio-8084-exec-201] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:02:47,544 [http-nio-8084-exec-202] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:02:56,762 [http-nio-8084-exec-206] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:02:56,881 [http-nio-8084-exec-203] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:02:56,970 [http-nio-8084-exec-208] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:03:07,917 [http-nio-8084-exec-202] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:07:30,356 [http-nio-8084-exec-210] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:07:30,508 [http-nio-8084-exec-210] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:07:30,613 [http-nio-8084-exec-208] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:08:01,412 [http-nio-8084-exec-207] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:09:08,507 [http-nio-8084-exec-217] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:09:52,382 [http-nio-8084-exec-215] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:09:52,528 [http-nio-8084-exec-220] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:09:53,300 [http-nio-8084-exec-218] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:09:53,428 [http-nio-8084-exec-222] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:09:54,064 [http-nio-8084-exec-217] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:09:54,504 [http-nio-8084-exec-223] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:09:54,922 [http-nio-8084-exec-220] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:09:55,147 [http-nio-8084-exec-216] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:11:04,556 [http-nio-8084-exec-224] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:11:04,745 [http-nio-8084-exec-229] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:14:50,319 [http-nio-8084-exec-230] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:14:54,530 [http-nio-8084-exec-231] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:15:06,729 [http-nio-8084-exec-243] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:15:36,795 [http-nio-8084-exec-230] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:16:45,240 [http-nio-8084-exec-251] dreamTravel.controllers.SearchTouServlet  - 
+FATAL   2020-06-20 12:19:23,848 [http-nio-8084-exec-248] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:23:01,455 [http-nio-8084-exec-267] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:23:32,490 [http-nio-8084-exec-267] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 12:24:04,494 [http-nio-8084-exec-264] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed   
+FATAL   2020-06-20 12:25:22,275 [http-nio-8084-exec-269] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 14:45:08,207 [http-nio-8084-exec-268] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 14:46:38,638 [http-nio-8084-exec-266] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 14:46:40,997 [http-nio-8084-exec-259] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 14:56:24,420 [http-nio-8084-exec-265] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 14:57:36,528 [http-nio-8084-exec-275] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 14:58:44,909 [http-nio-8084-exec-271] dreamTravel.filters.DispatcherFilter  - Cannot forward after response has been committed
+FATAL   2020-06-20 16:33:11,887 [http-nio-8084-exec-365] dreamTravel.filters.DispatcherFilter  - 
+FATAL   2020-06-20 16:33:17,831 [http-nio-8084-exec-363] dreamTravel.filters.DispatcherFilter  - 
+FATAL   2020-06-20 16:34:09,772 [http-nio-8084-exec-363] dreamTravel.filters.DispatcherFilter  - 
+FATAL   2020-06-20 21:36:39,802 [http-nio-8084-exec-32] dreamTravel.controllers.SearchTouServlet  - For input string: "a"
+FATAL   2020-06-21 11:38:30,563 [http-nio-8084-exec-134] dreamTravel.controllers.CheckOutServlet  - 
+FATAL   2020-06-21 11:39:36,809 [http-nio-8084-exec-137] dreamTravel.controllers.CheckOutServlet  - 
+FATAL   2020-06-21 20:34:51,492 [http-nio-8084-exec-365] dreamTravel.controllers.SearchTouServlet  - C:\Users\buiph\AppData\Roaming\NetBeans\8.2\apache-tomcat-8.0.27.0_base\temp\upload_1db9d8ff_536e_4ff4_af1e_264102ae4c78_00000069.tmp (The system cannot find the file specified)
+FATAL   2020-06-21 21:04:24,729 [http-nio-8084-exec-366] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:04:32,181 [http-nio-8084-exec-374] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:09:20,799 [http-nio-8084-exec-381] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:09:38,753 [http-nio-8084-exec-386] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:12:47,150 [http-nio-8084-exec-399] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:12:47,353 [http-nio-8084-exec-399] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:set var="errorInputQuota" value="${requestScope.errorInputQuota}"/>
+87:                                 <c:if test="${not empty errorInputQuota}">
+88:                                     <div class="text-danger">${errorInputQuota}</div>
+
+
+Stacktrace:
+FATAL   2020-06-21 21:13:11,156 [http-nio-8084-exec-393] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:13:11,206 [http-nio-8084-exec-393] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:set var="errorInputQuota" value="${requestScope.errorInputQuota}"/>
+87:                                 <c:if test="${not empty errorInputQuota}">
+88:                                     <div class="text-danger">${errorInputQuota}</div>
+
+
+Stacktrace:
+FATAL   2020-06-21 21:13:47,028 [http-nio-8084-exec-392] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:13:47,068 [http-nio-8084-exec-392] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:set var="errorInputQuota" value="${requestScope.errorInputQuota}"/>
+87:                                 <c:if test="${not empty errorInputQuota}">
+88:                                     <div class="text-danger">${errorInputQuota}</div>
+
+
+Stacktrace:
+FATAL   2020-06-21 21:14:46,804 [http-nio-8084-exec-407] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:14:47,015 [http-nio-8084-exec-407] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:set var="errorInputQuota" value="${requestScope.errorInputQuota}"/>
+87:                                 <c:if test="${not empty errorInputQuota}">
+88:                                     <div class="text-danger">${errorInputQuota}</div>
+
+
+Stacktrace:
+FATAL   2020-06-21 21:16:05,815 [http-nio-8084-exec-407] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+FATAL   2020-06-21 21:16:05,867 [http-nio-8084-exec-407] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:if test="${not empty errorTour.quotaError}">
+87:                                     <p class="text-danger">${errorTour.quotaError}</p>
+88:                                 </c:if>
+
+
+Stacktrace:
+FATAL   2020-06-21 21:16:25,005 [http-nio-8084-exec-401] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:if test="${not empty errorTour.quotaError}">
+87:                                     <p class="text-danger">${errorTour.quotaError}</p>
+88:                                 </c:if>
+
+
+Stacktrace:
+FATAL   2020-06-21 21:16:41,168 [http-nio-8084-exec-403] dreamTravel.filters.DispatcherFilter  - An exception occurred processing JSP page /createTour.jsp at line 85
+
+82:                             </div>
+83:                             <div class="form-group col-6">
+84:                                 <label class="">Quota</label>
+85:                                 <input class="form-control" placeholder="Quota" type="text" name="txtQuota" value="${errorTour.quota}">
+86:                                 <c:if test="${not empty errorTour.quotaError}">
+87:                                     <p class="text-danger">${errorTour.quotaError}</p>
+88:                                 </c:if>DEBUG   2020-06-25 12:46:37,656 [http-nio-8084-exec-4] org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: best-match
+DEBUG   2020-06-25 12:46:37,688 [http-nio-8084-exec-4] org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+DEBUG   2020-06-25 12:46:37,690 [http-nio-8084-exec-4] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 0 of 100; total allocated: 0 of 200]
+DEBUG   2020-06-25 12:46:37,726 [http-nio-8084-exec-4] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-06-25 12:46:37,726 [http-nio-8084-exec-4] org.apache.http.impl.execchain.MainClientExec  - Opening connection {s}->https://graph.facebook.com:443
+DEBUG   2020-06-25 12:46:37,769 [http-nio-8084-exec-4] org.apache.http.conn.HttpClientConnectionManager  - Connecting to graph.facebook.com/157.240.218.17:443
+DEBUG   2020-06-25 12:46:37,945 [http-nio-8084-exec-4] org.apache.http.impl.execchain.MainClientExec  - Executing request GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQAs4CIWp07Er6Qz8DK8e3gT0UHzyzj1Vd36gMEPF-pCmnWNwEI0TQqAp8AGT4hkp5HKYT_i8IKjvKqpZLx8iRWuUaNfEjXh5xrh5CjOdxzXIQTqu__hrLrmGkTHV1keo7dgrvNjXPFfQKdtiPMPYtJWTmLBiziqbbX5IrMy5zLTYpfKPOyIRFDFkXwy8hl5DtrKWK9lFpA-ysDBoZuPMb72_zOFU6ZmIOJ3CM4PwT-cd6dQhbHO85RHQQTQUrAMvl6HbXaxNS2XP7NSshK-6vGQ65c5rKwrpN72f9KK5lNjx2R2gpSUdcbL7SJ4XiKLoeTqe0iLVx684mr2ZjJnY5nv HTTP/1.1
+DEBUG   2020-06-25 12:46:37,945 [http-nio-8084-exec-4] org.apache.http.impl.execchain.MainClientExec  - Target auth state: UNCHALLENGED
+DEBUG   2020-06-25 12:46:37,947 [http-nio-8084-exec-4] org.apache.http.impl.execchain.MainClientExec  - Proxy auth state: UNCHALLENGED
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 >> GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQAs4CIWp07Er6Qz8DK8e3gT0UHzyzj1Vd36gMEPF-pCmnWNwEI0TQqAp8AGT4hkp5HKYT_i8IKjvKqpZLx8iRWuUaNfEjXh5xrh5CjOdxzXIQTqu__hrLrmGkTHV1keo7dgrvNjXPFfQKdtiPMPYtJWTmLBiziqbbX5IrMy5zLTYpfKPOyIRFDFkXwy8hl5DtrKWK9lFpA-ysDBoZuPMb72_zOFU6ZmIOJ3CM4PwT-cd6dQhbHO85RHQQTQUrAMvl6HbXaxNS2XP7NSshK-6vGQ65c5rKwrpN72f9KK5lNjx2R2gpSUdcbL7SJ4XiKLoeTqe0iLVx684mr2ZjJnY5nv HTTP/1.1
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 >> Accept-Charset: UTF-8
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 >> Host: graph.facebook.com
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQAs4CIWp07Er6Qz8DK8e3gT0UHzyzj1Vd36gMEPF-pCmnWNwEI0TQqAp8AGT4hkp5HKYT_i8IKjvKqpZLx8iRWuUaNfEjXh5xrh5CjOdxzXIQTqu__hrLrmGkTHV1keo7dgrvNjXPFfQKdtiPMPYtJWTmLBiziqbbX5IrMy5zLTYpfKPOyIRFDFkXwy8hl5DtrKWK9lFpA-ysDBoZuPMb72_zOFU6ZmIOJ3CM4PwT-cd6dQhbHO85RHQQTQUrAMvl6HbXaxNS2XP7NSshK-6vGQ65c5rKwrpN72f9KK5lNjx2R2gpSUdcbL7SJ4XiKLoeTqe0iLVx684mr2ZjJnY5nv HTTP/1.1[\r][\n]"
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "Accept-Charset: UTF-8[\r][\n]"
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "Host: graph.facebook.com[\r][\n]"
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG   2020-06-25 12:46:37,949 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 >> "[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "facebook-api-version: v3.0[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Strict-Transport-Security: max-age=15552000; preload[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "x-fb-rev: 1002292072[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Cache-Control: private, no-cache, no-store, must-revalidate[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "x-fb-trace-id: EIp3WdMIS0C[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "x-fb-request-id: A5gpOXb2oBSA57Sxqj0tVBL[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Expires: Sat, 01 Jan 2000 00:00:00 GMT[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "X-FB-Debug: B1OkGYqJZhlCijfWEMMmBNE4rgCAEQOX7Xp1tXLIu0sbu7mn7pKwBTI9zZYAoT8/EeNhEKk6DAwlK1JFdIYVtA==[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Date: Thu, 25 Jun 2020 05:46:39 GMT[\r][\n]"
+DEBUG   2020-06-25 12:46:38,407 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600[\r][\n]"
+DEBUG   2020-06-25 12:46:38,408 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG   2020-06-25 12:46:38,408 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "Content-Length: 239[\r][\n]"
+DEBUG   2020-06-25 12:46:38,408 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "[\r][\n]"
+DEBUG   2020-06-25 12:46:38,408 [http-nio-8084-exec-4] org.apache.http.wire  - http-outgoing-0 << "{"access_token":"EAANEYhEkU5YBAAZBwjV8JcNJVSFXojRJoLWlyj2FZAQCDnOwleHGCCzJKejkl37EpA4Rhr4X0yFbZAZAukTpCVWXHILAJ3gdQwTVjFwjb2lU1yuiwMUd4dDaZAqmN5Ad5ME7hDzqG06HHZBSWk0wffJsgrrGA3AiG8gltq8loO1gZDZD","token_type":"bearer","expires_in":5183999}"
+DEBUG   2020-06-25 12:46:38,412 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << HTTP/1.1 200 OK
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Content-Type: application/json; charset=UTF-8
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << facebook-api-version: v3.0
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Strict-Transport-Security: max-age=15552000; preload
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Pragma: no-cache
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << x-fb-rev: 1002292072
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Cache-Control: private, no-cache, no-store, must-revalidate
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << x-fb-trace-id: EIp3WdMIS0C
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << x-fb-request-id: A5gpOXb2oBSA57Sxqj0tVBL
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Expires: Sat, 01 Jan 2000 00:00:00 GMT
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << X-FB-Debug: B1OkGYqJZhlCijfWEMMmBNE4rgCAEQOX7Xp1tXLIu0sbu7mn7pKwBTI9zZYAoT8/EeNhEKk6DAwlK1JFdIYVtA==
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Date: Thu, 25 Jun 2020 05:46:39 GMT
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Connection: keep-alive
+DEBUG   2020-06-25 12:46:38,413 [http-nio-8084-exec-4] org.apache.http.headers  - http-outgoing-0 << Content-Length: 239
+DEBUG   2020-06-25 12:46:38,419 [http-nio-8084-exec-4] org.apache.http.impl.execchain.MainClientExec  - Connection can be kept alive indefinitely
+DEBUG   2020-06-25 12:46:38,436 [http-nio-8084-exec-4] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection [id: 0][route: {s}->https://graph.facebook.com:443] can be kept alive indefinitely
+DEBUG   2020-06-25 12:46:38,437 [http-nio-8084-exec-4] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-06-25 13:14:11,758 [Finalizer] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager is shutting down
+DEBUG   2020-06-25 13:14:11,758 [Finalizer] org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-0: Close connection
+DEBUG   2020-06-25 13:14:11,758 [Finalizer] org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-0: Close connection
+DEBUG   2020-06-25 13:14:11,758 [Finalizer] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection manager shut down
+DEBUG   2020-06-25 13:17:30,003 [http-nio-8084-exec-12] org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: best-match
+DEBUG   2020-06-25 13:17:30,034 [http-nio-8084-exec-12] org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+DEBUG   2020-06-25 13:17:30,037 [http-nio-8084-exec-12] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 0 of 100; total allocated: 0 of 200]
+DEBUG   2020-06-25 13:17:30,079 [http-nio-8084-exec-12] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-06-25 13:17:30,086 [http-nio-8084-exec-12] org.apache.http.impl.execchain.MainClientExec  - Opening connection {s}->https://graph.facebook.com:443
+DEBUG   2020-06-25 13:17:30,116 [http-nio-8084-exec-12] org.apache.http.conn.HttpClientConnectionManager  - Connecting to graph.facebook.com/157.240.218.17:443
+DEBUG   2020-06-25 13:17:30,295 [http-nio-8084-exec-12] org.apache.http.impl.execchain.MainClientExec  - Executing request GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQAzMDf-hCc8UgLwhz0s-CjJ3cTGFTkgLx89FEixgLqQ8G9PkXEdLgd-XltpmdRKUCSLjjQGo-FNs9ti46FzZZI_N3-GHtOm1MqvaZ-D-BDnaYyCoF8DOQx134bWFHIokcjNri-huibIT6bfGeqmJ6ATw2DUEBoIQNu6Kvl2KcEemDu-ed_tODigMVxLgPfCObBMHHydYBBq4HNhyEZqzVGCuLLgfqk3OxE6ZRXck-OQDoK-f_i9X8OEEF_OyUkmaElGtKQL0zAuZnO2LibWyMjTOA1LaMN_V_B1oesQU7PEK3VvXDp1H0Pgp_QbIJkVuVsQfBdsIqKiQBXA8IlW9_nP HTTP/1.1
+DEBUG   2020-06-25 13:17:30,295 [http-nio-8084-exec-12] org.apache.http.impl.execchain.MainClientExec  - Target auth state: UNCHALLENGED
+DEBUG   2020-06-25 13:17:30,296 [http-nio-8084-exec-12] org.apache.http.impl.execchain.MainClientExec  - Proxy auth state: UNCHALLENGED
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 >> GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQAzMDf-hCc8UgLwhz0s-CjJ3cTGFTkgLx89FEixgLqQ8G9PkXEdLgd-XltpmdRKUCSLjjQGo-FNs9ti46FzZZI_N3-GHtOm1MqvaZ-D-BDnaYyCoF8DOQx134bWFHIokcjNri-huibIT6bfGeqmJ6ATw2DUEBoIQNu6Kvl2KcEemDu-ed_tODigMVxLgPfCObBMHHydYBBq4HNhyEZqzVGCuLLgfqk3OxE6ZRXck-OQDoK-f_i9X8OEEF_OyUkmaElGtKQL0zAuZnO2LibWyMjTOA1LaMN_V_B1oesQU7PEK3VvXDp1H0Pgp_QbIJkVuVsQfBdsIqKiQBXA8IlW9_nP HTTP/1.1
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 >> Accept-Charset: UTF-8
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 >> Host: graph.facebook.com
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQAzMDf-hCc8UgLwhz0s-CjJ3cTGFTkgLx89FEixgLqQ8G9PkXEdLgd-XltpmdRKUCSLjjQGo-FNs9ti46FzZZI_N3-GHtOm1MqvaZ-D-BDnaYyCoF8DOQx134bWFHIokcjNri-huibIT6bfGeqmJ6ATw2DUEBoIQNu6Kvl2KcEemDu-ed_tODigMVxLgPfCObBMHHydYBBq4HNhyEZqzVGCuLLgfqk3OxE6ZRXck-OQDoK-f_i9X8OEEF_OyUkmaElGtKQL0zAuZnO2LibWyMjTOA1LaMN_V_B1oesQU7PEK3VvXDp1H0Pgp_QbIJkVuVsQfBdsIqKiQBXA8IlW9_nP HTTP/1.1[\r][\n]"
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "Accept-Charset: UTF-8[\r][\n]"
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "Host: graph.facebook.com[\r][\n]"
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG   2020-06-25 13:17:30,300 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 >> "[\r][\n]"
+DEBUG   2020-06-25 13:17:30,590 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG   2020-06-25 13:17:30,590 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+DEBUG   2020-06-25 13:17:30,590 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "facebook-api-version: v3.0[\r][\n]"
+DEBUG   2020-06-25 13:17:30,590 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Strict-Transport-Security: max-age=15552000; preload[\r][\n]"
+DEBUG   2020-06-25 13:17:30,590 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "x-fb-rev: 1002292072[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Cache-Control: private, no-cache, no-store, must-revalidate[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "x-fb-trace-id: DpsccaMcDaJ[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "x-fb-request-id: AqqbUDn5PYeYL0Db4wFccKU[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Expires: Sat, 01 Jan 2000 00:00:00 GMT[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "X-FB-Debug: 4ndkxoQrlBc1omrJTz94qxlAZXyt6E2ik0F/wSW4O+un9DGrthA02ASgP3Kl5dMNfwrRR6nK/n+Iu7zobP1MBg==[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Date: Thu, 25 Jun 2020 06:17:31 GMT[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "Content-Length: 241[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "[\r][\n]"
+DEBUG   2020-06-25 13:17:30,591 [http-nio-8084-exec-12] org.apache.http.wire  - http-outgoing-0 << "{"access_token":"EAANEYhEkU5YBAGOSgOMDekBEXXDG5RznkwbTSPPu98UZCXZCZB6mYs4KffaLcBBUFU4GgqZA65WyRdwDUQstuHJgFwEbO4IhebBOnscvR2SZCeXoxUBWJCNIZCCBXMUYeGuxFJxOsqsDtz4MCK3DOYIxDgstN8ZBKZCtqbJ4AFezmgZDZD","token_type":"bearer","expires_in":5182147}"
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << HTTP/1.1 200 OK
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Content-Type: application/json; charset=UTF-8
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << facebook-api-version: v3.0
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Strict-Transport-Security: max-age=15552000; preload
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Pragma: no-cache
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << x-fb-rev: 1002292072
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Cache-Control: private, no-cache, no-store, must-revalidate
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << x-fb-trace-id: DpsccaMcDaJ
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << x-fb-request-id: AqqbUDn5PYeYL0Db4wFccKU
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Expires: Sat, 01 Jan 2000 00:00:00 GMT
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << X-FB-Debug: 4ndkxoQrlBc1omrJTz94qxlAZXyt6E2ik0F/wSW4O+un9DGrthA02ASgP3Kl5dMNfwrRR6nK/n+Iu7zobP1MBg==
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Date: Thu, 25 Jun 2020 06:17:31 GMT
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Connection: keep-alive
+DEBUG   2020-06-25 13:17:30,595 [http-nio-8084-exec-12] org.apache.http.headers  - http-outgoing-0 << Content-Length: 241
+DEBUG   2020-06-25 13:17:30,603 [http-nio-8084-exec-12] org.apache.http.impl.execchain.MainClientExec  - Connection can be kept alive indefinitely
+DEBUG   2020-06-25 13:17:30,619 [http-nio-8084-exec-12] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection [id: 0][route: {s}->https://graph.facebook.com:443] can be kept alive indefinitely
+DEBUG   2020-06-25 13:17:30,619 [http-nio-8084-exec-12] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-07-07 10:48:59,347 [http-nio-8084-exec-8] org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: best-match
+DEBUG   2020-07-07 10:48:59,380 [http-nio-8084-exec-8] org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+DEBUG   2020-07-07 10:48:59,384 [http-nio-8084-exec-8] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 0 of 100; total allocated: 0 of 200]
+DEBUG   2020-07-07 10:48:59,430 [http-nio-8084-exec-8] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-07-07 10:48:59,437 [http-nio-8084-exec-8] org.apache.http.impl.execchain.MainClientExec  - Opening connection {s}->https://graph.facebook.com:443
+DEBUG   2020-07-07 10:48:59,485 [http-nio-8084-exec-8] org.apache.http.conn.HttpClientConnectionManager  - Connecting to graph.facebook.com/31.13.77.17:443
+DEBUG   2020-07-07 10:48:59,747 [http-nio-8084-exec-8] org.apache.http.impl.execchain.MainClientExec  - Executing request GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQDfWs9joVs4GsXV5CJG7J0N3AE8EX6dL-AQCfM0HhWSm0H_qsdN4xvme2gfEdDt8Xe9WW1iQIs7-GtqhreZaE7B6All3fN278ISG3qZ361AAbu6AfSdm0wJEqD-TXKFj_xvpf_-nN5D7PCgSFgxRC5ccJJ_ZIU8QhDXi-AUTElXgeBP7Xj_bgBwl_dpGhnUEk7dUitCK5zVHRwZvmvsAsBTrgHopW5awhoGEkvR_HEIHT2qoBY5mvJUaizQ8WKABIV1EtSoYZw7pa1dZIs5-SShoO5cG3_g4lP_I6tmFPy13JUdjv2w5uSUNcYnFjQ6knrrcYfCq3mb0P4OWG46BweK HTTP/1.1
+DEBUG   2020-07-07 10:48:59,748 [http-nio-8084-exec-8] org.apache.http.impl.execchain.MainClientExec  - Target auth state: UNCHALLENGED
+DEBUG   2020-07-07 10:48:59,749 [http-nio-8084-exec-8] org.apache.http.impl.execchain.MainClientExec  - Proxy auth state: UNCHALLENGED
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 >> GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQDfWs9joVs4GsXV5CJG7J0N3AE8EX6dL-AQCfM0HhWSm0H_qsdN4xvme2gfEdDt8Xe9WW1iQIs7-GtqhreZaE7B6All3fN278ISG3qZ361AAbu6AfSdm0wJEqD-TXKFj_xvpf_-nN5D7PCgSFgxRC5ccJJ_ZIU8QhDXi-AUTElXgeBP7Xj_bgBwl_dpGhnUEk7dUitCK5zVHRwZvmvsAsBTrgHopW5awhoGEkvR_HEIHT2qoBY5mvJUaizQ8WKABIV1EtSoYZw7pa1dZIs5-SShoO5cG3_g4lP_I6tmFPy13JUdjv2w5uSUNcYnFjQ6knrrcYfCq3mb0P4OWG46BweK HTTP/1.1
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 >> Accept-Charset: UTF-8
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 >> Host: graph.facebook.com
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQDfWs9joVs4GsXV5CJG7J0N3AE8EX6dL-AQCfM0HhWSm0H_qsdN4xvme2gfEdDt8Xe9WW1iQIs7-GtqhreZaE7B6All3fN278ISG3qZ361AAbu6AfSdm0wJEqD-TXKFj_xvpf_-nN5D7PCgSFgxRC5ccJJ_ZIU8QhDXi-AUTElXgeBP7Xj_bgBwl_dpGhnUEk7dUitCK5zVHRwZvmvsAsBTrgHopW5awhoGEkvR_HEIHT2qoBY5mvJUaizQ8WKABIV1EtSoYZw7pa1dZIs5-SShoO5cG3_g4lP_I6tmFPy13JUdjv2w5uSUNcYnFjQ6knrrcYfCq3mb0P4OWG46BweK HTTP/1.1[\r][\n]"
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "Accept-Charset: UTF-8[\r][\n]"
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "Host: graph.facebook.com[\r][\n]"
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG   2020-07-07 10:48:59,752 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 >> "[\r][\n]"
+DEBUG   2020-07-07 10:49:00,064 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG   2020-07-07 10:49:00,064 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+DEBUG   2020-07-07 10:49:00,064 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "facebook-api-version: v3.0[\r][\n]"
+DEBUG   2020-07-07 10:49:00,064 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Strict-Transport-Security: max-age=15552000; preload[\r][\n]"
+DEBUG   2020-07-07 10:49:00,064 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+DEBUG   2020-07-07 10:49:00,064 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "x-fb-rev: 1002334362[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Cache-Control: private, no-cache, no-store, must-revalidate[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "x-fb-trace-id: BPV46kc7JRx[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "x-fb-request-id: Ats5dzRsNEJb05fqCgILur0[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Expires: Sat, 01 Jan 2000 00:00:00 GMT[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "X-FB-Debug: ysumx6+D7z3GR2oLvSPfU6A0SvIKi91ZtisESwiZLFcFMjOInk78mr+jv3UOIevkzV+b27CSuWHaA0qcTKeRkg==[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Date: Tue, 07 Jul 2020 03:48:59 GMT[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "Content-Length: 237[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "[\r][\n]"
+DEBUG   2020-07-07 10:49:00,065 [http-nio-8084-exec-8] org.apache.http.wire  - http-outgoing-0 << "{"access_token":"EAANEYhEkU5YBAA0PZCFN9NuUbtgAP3nKWsjGx4El5OTTtyKM8U1WPjHxIBewFVZBJhcjHl5PrzcTfpridoFwQ7tdnsxznZCui7CA8r6igSbk16RAASonDvVceVEGHZCAFYtN8kBBMDFEY5zVbMxjamJaiVe0JMmssIx8ilbiggZDZD","token_type":"bearer","expires_in":5183999}"
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << HTTP/1.1 200 OK
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Content-Type: application/json; charset=UTF-8
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << facebook-api-version: v3.0
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Strict-Transport-Security: max-age=15552000; preload
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Pragma: no-cache
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << x-fb-rev: 1002334362
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Cache-Control: private, no-cache, no-store, must-revalidate
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << x-fb-trace-id: BPV46kc7JRx
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << x-fb-request-id: Ats5dzRsNEJb05fqCgILur0
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Expires: Sat, 01 Jan 2000 00:00:00 GMT
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << X-FB-Debug: ysumx6+D7z3GR2oLvSPfU6A0SvIKi91ZtisESwiZLFcFMjOInk78mr+jv3UOIevkzV+b27CSuWHaA0qcTKeRkg==
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Date: Tue, 07 Jul 2020 03:48:59 GMT
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Connection: keep-alive
+DEBUG   2020-07-07 10:49:00,069 [http-nio-8084-exec-8] org.apache.http.headers  - http-outgoing-0 << Content-Length: 237
+DEBUG   2020-07-07 10:49:00,076 [http-nio-8084-exec-8] org.apache.http.impl.execchain.MainClientExec  - Connection can be kept alive indefinitely
+DEBUG   2020-07-07 10:49:00,094 [http-nio-8084-exec-8] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection [id: 0][route: {s}->https://graph.facebook.com:443] can be kept alive indefinitely
+DEBUG   2020-07-07 10:49:00,094 [http-nio-8084-exec-8] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-07-07 11:14:07,552 [http-nio-8084-exec-6] org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: best-match
+DEBUG   2020-07-07 11:14:07,593 [http-nio-8084-exec-6] org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+DEBUG   2020-07-07 11:14:07,594 [http-nio-8084-exec-6] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {s}->https://graph.facebook.com:443][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-07-07 11:14:07,595 [http-nio-8084-exec-6] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-07-07 11:14:07,595 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Stale connection check
+DEBUG   2020-07-07 11:14:07,598 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Stale connection detected
+DEBUG   2020-07-07 11:14:07,598 [http-nio-8084-exec-6] org.apache.http.impl.conn.DefaultManagedHttpClientConnection  - http-outgoing-0: Close connection
+DEBUG   2020-07-07 11:14:07,598 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Opening connection {s}->https://graph.facebook.com:443
+DEBUG   2020-07-07 11:14:07,639 [http-nio-8084-exec-6] org.apache.http.conn.HttpClientConnectionManager  - Connecting to graph.facebook.com/31.13.77.17:443
+DEBUG   2020-07-07 11:14:07,871 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Executing request GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQDjSorGFwOpK2Vh8CIVJ_NEsz2IPupO4vnmgO1tjcA7y6ynG5qvCn21KsOWtvJFPpJPx5qiTqSkNj28sv1PZAo9pkpE_ZPTJk8eWXiI37ni6LP6HH9ww22JuV2bq9f1Os4ulLTKWIOxgpnxl36kIb7BI75ywy8QCBXTT1HzZgpe56ewmU7oAf3vTH5Bf-4g05oSlUDGTodwYQq-_sHl5GjbCWvY-pvGAWKqQx043bUVq02_UNMU-XAUZ2isu39sKyIzh7IfSjHcb46-cpIkZNzGFeDKKIEBMYE_UhbRjPdxez5UPRFdrdc3UCJG8gvb3AJNXD93Gku9u6kGfgfKQzP_ HTTP/1.1
+DEBUG   2020-07-07 11:14:07,871 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Target auth state: UNCHALLENGED
+DEBUG   2020-07-07 11:14:07,871 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Proxy auth state: UNCHALLENGED
+DEBUG   2020-07-07 11:14:07,871 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 >> GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQDjSorGFwOpK2Vh8CIVJ_NEsz2IPupO4vnmgO1tjcA7y6ynG5qvCn21KsOWtvJFPpJPx5qiTqSkNj28sv1PZAo9pkpE_ZPTJk8eWXiI37ni6LP6HH9ww22JuV2bq9f1Os4ulLTKWIOxgpnxl36kIb7BI75ywy8QCBXTT1HzZgpe56ewmU7oAf3vTH5Bf-4g05oSlUDGTodwYQq-_sHl5GjbCWvY-pvGAWKqQx043bUVq02_UNMU-XAUZ2isu39sKyIzh7IfSjHcb46-cpIkZNzGFeDKKIEBMYE_UhbRjPdxez5UPRFdrdc3UCJG8gvb3AJNXD93Gku9u6kGfgfKQzP_ HTTP/1.1
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 >> Accept-Charset: UTF-8
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 >> Host: graph.facebook.com
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQDjSorGFwOpK2Vh8CIVJ_NEsz2IPupO4vnmgO1tjcA7y6ynG5qvCn21KsOWtvJFPpJPx5qiTqSkNj28sv1PZAo9pkpE_ZPTJk8eWXiI37ni6LP6HH9ww22JuV2bq9f1Os4ulLTKWIOxgpnxl36kIb7BI75ywy8QCBXTT1HzZgpe56ewmU7oAf3vTH5Bf-4g05oSlUDGTodwYQq-_sHl5GjbCWvY-pvGAWKqQx043bUVq02_UNMU-XAUZ2isu39sKyIzh7IfSjHcb46-cpIkZNzGFeDKKIEBMYE_UhbRjPdxez5UPRFdrdc3UCJG8gvb3AJNXD93Gku9u6kGfgfKQzP_ HTTP/1.1[\r][\n]"
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "Accept-Charset: UTF-8[\r][\n]"
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "Host: graph.facebook.com[\r][\n]"
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG   2020-07-07 11:14:07,872 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 >> "[\r][\n]"
+DEBUG   2020-07-07 11:14:08,089 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG   2020-07-07 11:14:08,089 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+DEBUG   2020-07-07 11:14:08,089 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "facebook-api-version: v3.0[\r][\n]"
+DEBUG   2020-07-07 11:14:08,089 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Strict-Transport-Security: max-age=15552000; preload[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "x-fb-rev: 1002334610[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Cache-Control: private, no-cache, no-store, must-revalidate[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "x-fb-trace-id: BCMdSUaTHSs[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "x-fb-request-id: As8Vk5sOhRv0GW9Iui6Zayi[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Expires: Sat, 01 Jan 2000 00:00:00 GMT[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "X-FB-Debug: bizq2zLX9nd01wMr+N2QPf1Rf25ilVBd9gvVtZWi0vfk5voeMrH8N6mFrTlt8iKX7xzy8Mk2TQ613ujFHkZ4LA==[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Date: Tue, 07 Jul 2020 04:14:07 GMT[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "Content-Length: 248[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "[\r][\n]"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.wire  - http-outgoing-0 << "{"access_token":"EAANEYhEkU5YBAJWmUMPK5bZBN31yGZAfeUH1OgWZCeromqhZBCO44XQdHZB3XBZBWxUZBkdmIEX7ZBHZBht65zZCZBZAfOiuGBI4OWsfmyyHdWcTUNdyCjv4FziGBRmitUTQGv2YfQROTr1LyPDZBIvwfZC0xvBmoVrDscvCs1s6cZCIpLXqwZDZD","token_type":"bearer","expires_in":5182491}"
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << HTTP/1.1 200 OK
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Content-Type: application/json; charset=UTF-8
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << facebook-api-version: v3.0
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Strict-Transport-Security: max-age=15552000; preload
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Pragma: no-cache
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << x-fb-rev: 1002334610
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Cache-Control: private, no-cache, no-store, must-revalidate
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << x-fb-trace-id: BCMdSUaTHSs
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << x-fb-request-id: As8Vk5sOhRv0GW9Iui6Zayi
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Expires: Sat, 01 Jan 2000 00:00:00 GMT
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << X-FB-Debug: bizq2zLX9nd01wMr+N2QPf1Rf25ilVBd9gvVtZWi0vfk5voeMrH8N6mFrTlt8iKX7xzy8Mk2TQ613ujFHkZ4LA==
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Date: Tue, 07 Jul 2020 04:14:07 GMT
+DEBUG   2020-07-07 11:14:08,090 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+DEBUG   2020-07-07 11:14:08,091 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Connection: keep-alive
+DEBUG   2020-07-07 11:14:08,091 [http-nio-8084-exec-6] org.apache.http.headers  - http-outgoing-0 << Content-Length: 248
+DEBUG   2020-07-07 11:14:08,091 [http-nio-8084-exec-6] org.apache.http.impl.execchain.MainClientExec  - Connection can be kept alive indefinitely
+DEBUG   2020-07-07 11:14:08,091 [http-nio-8084-exec-6] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection [id: 0][route: {s}->https://graph.facebook.com:443] can be kept alive indefinitely
+DEBUG   2020-07-07 11:14:08,091 [http-nio-8084-exec-6] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 200]
+FATAL   2020-07-07 14:36:50,208 [http-nio-8084-exec-18] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
+DEBUG   2020-07-07 14:39:43,323 [http-nio-8084-exec-14] org.apache.http.client.protocol.RequestAddCookies  - CookieSpec selected: best-match
+DEBUG   2020-07-07 14:39:43,357 [http-nio-8084-exec-14] org.apache.http.client.protocol.RequestAuthCache  - Auth cache not set in the context
+DEBUG   2020-07-07 14:39:43,362 [http-nio-8084-exec-14] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection request: [route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 0 of 100; total allocated: 0 of 200]
+DEBUG   2020-07-07 14:39:43,414 [http-nio-8084-exec-14] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection leased: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 0; route allocated: 1 of 100; total allocated: 1 of 200]
+DEBUG   2020-07-07 14:39:43,418 [http-nio-8084-exec-14] org.apache.http.impl.execchain.MainClientExec  - Opening connection {s}->https://graph.facebook.com:443
+DEBUG   2020-07-07 14:39:43,468 [http-nio-8084-exec-14] org.apache.http.conn.HttpClientConnectionManager  - Connecting to graph.facebook.com/31.13.77.17:443
+DEBUG   2020-07-07 14:39:43,776 [http-nio-8084-exec-14] org.apache.http.impl.execchain.MainClientExec  - Executing request GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQB1219UG3rv1-C4ELmYwZ9u5q3ypFfihIbTqxPYwX2PKcuF-iYlvmPyZA-VUikOOrVOHCVgD63gWygOWOSxffylRLabyFSYdZKtXmqkylnLtZ6xOh_E9g7-PB_BZrnKCMetfCYBELQDyWKYmFvw6OIGoO21RY9I1r87UG9NME1_x2HRj9rr3qCPAlBZq9Hg1hitjD68ryaSBguQcZgCQBnjiyGSIS5pU1gMeauVkMRqaJQjEZfTS4MNuKu_cWVT1kGgkM2yIrbeZU3yNboi-5vCNoUyHMJKcxkcuOP6JqYySlnAbTKCcb1EHi0RuT8FLL4JKgNvf2fMgutoR_qOzdqi HTTP/1.1
+DEBUG   2020-07-07 14:39:43,776 [http-nio-8084-exec-14] org.apache.http.impl.execchain.MainClientExec  - Target auth state: UNCHALLENGED
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.impl.execchain.MainClientExec  - Proxy auth state: UNCHALLENGED
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 >> GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQB1219UG3rv1-C4ELmYwZ9u5q3ypFfihIbTqxPYwX2PKcuF-iYlvmPyZA-VUikOOrVOHCVgD63gWygOWOSxffylRLabyFSYdZKtXmqkylnLtZ6xOh_E9g7-PB_BZrnKCMetfCYBELQDyWKYmFvw6OIGoO21RY9I1r87UG9NME1_x2HRj9rr3qCPAlBZq9Hg1hitjD68ryaSBguQcZgCQBnjiyGSIS5pU1gMeauVkMRqaJQjEZfTS4MNuKu_cWVT1kGgkM2yIrbeZU3yNboi-5vCNoUyHMJKcxkcuOP6JqYySlnAbTKCcb1EHi0RuT8FLL4JKgNvf2fMgutoR_qOzdqi HTTP/1.1
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 >> Accept-Charset: UTF-8
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 >> Host: graph.facebook.com
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 >> Connection: Keep-Alive
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.3.1 (java 1.5)
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "GET /oauth/access_token?client_id=919612915209110&client_secret=ce2c50a986e5e013e4abb800236d3fb8&redirect_uri=http://localhost:8084/DreamTravelLAB2/loginFacebook&code=AQB1219UG3rv1-C4ELmYwZ9u5q3ypFfihIbTqxPYwX2PKcuF-iYlvmPyZA-VUikOOrVOHCVgD63gWygOWOSxffylRLabyFSYdZKtXmqkylnLtZ6xOh_E9g7-PB_BZrnKCMetfCYBELQDyWKYmFvw6OIGoO21RY9I1r87UG9NME1_x2HRj9rr3qCPAlBZq9Hg1hitjD68ryaSBguQcZgCQBnjiyGSIS5pU1gMeauVkMRqaJQjEZfTS4MNuKu_cWVT1kGgkM2yIrbeZU3yNboi-5vCNoUyHMJKcxkcuOP6JqYySlnAbTKCcb1EHi0RuT8FLL4JKgNvf2fMgutoR_qOzdqi HTTP/1.1[\r][\n]"
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "Accept-Charset: UTF-8[\r][\n]"
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "Host: graph.facebook.com[\r][\n]"
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.3.1 (java 1.5)[\r][\n]"
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG   2020-07-07 14:39:43,779 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 >> "[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Content-Type: application/json; charset=UTF-8[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "facebook-api-version: v3.0[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Strict-Transport-Security: max-age=15552000; preload[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "x-fb-rev: 1002335067[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Cache-Control: private, no-cache, no-store, must-revalidate[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "x-fb-trace-id: AK8ebwDrLO7[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "x-fb-request-id: ATfS9GUwhbIiC-8nA03AF1b[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Expires: Sat, 01 Jan 2000 00:00:00 GMT[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "X-FB-Debug: cWj4qp1YYxKvhK890Wf/tBRUTkkBYznZKfXHJ9hAK6f9X9s32FydnKJzJa2deSEdSNw2SWH6iIGlnBbRJ6ML9g==[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Date: Tue, 07 Jul 2020 07:39:44 GMT[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "Content-Length: 239[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "[\r][\n]"
+DEBUG   2020-07-07 14:39:44,136 [http-nio-8084-exec-14] org.apache.http.wire  - http-outgoing-0 << "{"access_token":"EAANEYhEkU5YBAFA3MiJGkqAfxqVyBRMEtXWDi9SIjP6OqFVBRT4o2HMtZA8rdcMXkSDvqLt8hT0ZCoZCZA3OyIiMiJRuQaSfllRCJHLtSGsRjwZBYHKQiflsYe6R8ivvT1F7vjT5K9gXdJFZBD9Kwo0UUTWE3UJzqvSecD4C9ckQZDZD","token_type":"bearer","expires_in":5170154}"
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << HTTP/1.1 200 OK
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Content-Type: application/json; charset=UTF-8
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << facebook-api-version: v3.0
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Strict-Transport-Security: max-age=15552000; preload
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Pragma: no-cache
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << x-fb-rev: 1002335067
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Access-Control-Allow-Origin: *
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Cache-Control: private, no-cache, no-store, must-revalidate
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << x-fb-trace-id: AK8ebwDrLO7
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << x-fb-request-id: ATfS9GUwhbIiC-8nA03AF1b
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Expires: Sat, 01 Jan 2000 00:00:00 GMT
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << X-FB-Debug: cWj4qp1YYxKvhK890Wf/tBRUTkkBYznZKfXHJ9hAK6f9X9s32FydnKJzJa2deSEdSNw2SWH6iIGlnBbRJ6ML9g==
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Date: Tue, 07 Jul 2020 07:39:44 GMT
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Connection: keep-alive
+DEBUG   2020-07-07 14:39:44,141 [http-nio-8084-exec-14] org.apache.http.headers  - http-outgoing-0 << Content-Length: 239
+DEBUG   2020-07-07 14:39:44,149 [http-nio-8084-exec-14] org.apache.http.impl.execchain.MainClientExec  - Connection can be kept alive indefinitely
+DEBUG   2020-07-07 14:39:44,171 [http-nio-8084-exec-14] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection [id: 0][route: {s}->https://graph.facebook.com:443] can be kept alive indefinitely
+DEBUG   2020-07-07 14:39:44,171 [http-nio-8084-exec-14] org.apache.http.impl.conn.PoolingHttpClientConnectionManager  - Connection released: [id: 0][route: {s}->https://graph.facebook.com:443][total kept alive: 1; route allocated: 1 of 100; total allocated: 1 of 200]
+FATAL   2020-07-07 14:40:25,713 [http-nio-8084-exec-12] dreamTravel.controllers.SearchTouServlet  - D:\HocHanh\CN5\LAB231\LAB2\DreamTravelLAB2\build\web\images (Access is denied)
